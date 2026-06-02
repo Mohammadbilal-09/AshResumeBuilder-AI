@@ -34,6 +34,9 @@ Built and deployed using GitHub and Vercel.
 
 -Deployed publicly using Vercel
 
+# Author 
+MOHAMMED BILAL
+
 
 # Clone the repository:
 
@@ -41,7 +44,5 @@ Built and deployed using GitHub and Vercel.
 git clone https://github.com/mohammedbilal-09/ash-resume-builder-ai.git
 
 
-# Author 
-MOHAMMED BILAL
 
 
