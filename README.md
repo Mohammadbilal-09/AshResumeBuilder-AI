@@ -37,6 +37,8 @@ Built and deployed using GitHub and Vercel.
 
 # Clone the repository:
 
+```bash
+git clone https://github.com/mohammedbilal-09/ash-resume-builder-ai.git
 
 
 # Author 
