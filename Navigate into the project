@@ -1,0 +1,18 @@
+```bash
+git clone https://github.com/your-username/ash-resume-builder-ai.git
+
+Go to the project folder:
+
+cd ash-resume-builder-ai
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+
+npm run dev
+
+Open the app in your browser:
+
+http://localhost:3000
