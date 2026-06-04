@@ -130,16 +130,12 @@ git push origin your-feature-name
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mohammadbilal--09-181717?style=for-the-badge&logo=github)](https://github.com/Mohammadbilal-09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Bilal-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-bilal-ab08a93a7)
-Instagram:https://instagram.com/analyticswithbilal
-
+[![Instagram](https://img.shields.io/badge/Instagram-analyticswithbilal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/analyticswithbilal)
 
 ---
 
 <div align="center">
 
-MIT License — use it however you want.
-
-If it helped you land a job, I'd love to hear about it. ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
