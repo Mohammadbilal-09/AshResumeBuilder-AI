@@ -95,6 +95,8 @@ git push origin your-feature-name
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mohammadbilal--09-181717?style=for-the-badge&logo=github)](https://github.com/Mohammadbilal-09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Bilal-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-bilal-ab08a93a7)
+Instagram:https://instagram.com/analyticswithbilal
+
 
 ---
 
