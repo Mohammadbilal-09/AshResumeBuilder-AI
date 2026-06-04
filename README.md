@@ -86,7 +86,7 @@ Deployment
 
 ---
 
-## Running it locally
+## Installation 
 
 ```bash
 git clone https://github.com/Mohammadbilal-09/AshResumeBuilder-AI.git
@@ -96,6 +96,7 @@ cd AshResumeBuilder-AI
 Open index.html in your browser.
 
 Or run with VS Code Live Server.
+
 ---
 
 ## What's next
