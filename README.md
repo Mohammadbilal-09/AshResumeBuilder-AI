@@ -35,19 +35,51 @@ It's not trying to be Notion or a full SaaS product. It's just a clean, fast too
 
 ## Features
 
-- AI helps you write and improve your resume content
-- Fills out and generates in real-time as you type
-- Works on mobile and desktop
-- No login needed, no data stored
-- Hosted on Vercel so it loads fast
+🤖 AI-Powered Resume Generation
+
+🎯 ATS Optimization
+
+📄 Professional Resume Templates
+
+📱 Fully Responsive Design
+
+⚡ Fast Performance
+
+🌐 No Sign-Up Required
+
+🚀 Vercel Deployment
+
+💼 Professional User Experience
 
 ---
 
 ## Stack
 
-Pure HTML, CSS, and JavaScript. No frameworks, no build tools. I kept it simple on purpose — faster to build, easier to maintain, and anyone can fork and understand it in 10 minutes.
 
-Deployed on Vercel with auto-deploy from the main branch.
+
+Technology
+
+Purpose
+
+HTML5
+
+Structure
+
+CSS3
+
+Styling
+
+JavaScript
+
+Functionality
+
+Gemini AI
+
+Resume Assistance
+
+Vercel
+
+Deployment
 
 ---
 
@@ -58,10 +90,9 @@ git clone https://github.com/Mohammadbilal-09/AshResumeBuilder-AI.git
 cd AshResumeBuilder-AI
 ```
 
-Then just open `index.html` in your browser. That's it — no `npm install`, nothing.
+Open index.html in your browser.
 
-If you use VS Code, the Live Server extension gives you auto-reload while you edit.
-
+Or run with VS Code Live Server.
 ---
 
 ## What's next
