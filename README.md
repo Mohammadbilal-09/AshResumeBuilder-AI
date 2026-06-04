@@ -1,48 +1,109 @@
-# AshResumeBuilder-AI
+<div align="center">
 
-An AI-powered resume builder web that helps users create professional resumes quickly and easily.  
-Built and deployed using GitHub and Vercel.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=AshResumeBuilder-AI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Build%20Your%20Dream%20Resume%20in%20Minutes%20with%20AI&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
 
-# Live Demo
+![Live](https://img.shields.io/badge/🌐_Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
- [View Website](https://ashresumebuilder-ai.vercel.app/)
+**[🚀 Live Demo](https://ashresumebuilder-ai.vercel.app/)** &nbsp;•&nbsp;
+**[🐛 Report a Bug](https://github.com/Mohammadbilal-09/AshResumeBuilder-AI/issues)**
 
- # About AshResumeBuilder-AI,
- ## Why i build this website 
+</div>
 
- As a student and developer, I noticed that many people struggle with resume writing.
- 
- Existing resume builders are often complicated, expensive, or filled with unnecessary features.
- 
- My goal was to create a clean, modern, and easy-to-use platform where users can focus on their content.
- 
- while AI helps improve and organize it.
+---
 
-# Features of AshResumeBuilder-AI:
- 
--AI-assisted resume creation
+## What is this?
 
--Clean and responsive user interface
+AshResumeBuilder-AI is a web app that helps you build a professional resume using AI. No sign-up walls, no paid tiers, no bloat — just open it and start writing.
 
--Real-time resume generation
+I built it because I was tired of resume builders that either charge you to download your own file or bury the actual editor under 10 onboarding steps. This one skips all of that.
 
--User-friendly workflow
+---
 
--Mobile and desktop support
+## Why I made it
 
--Fast performance
+Honestly, it started as a personal project. I needed a resume, didn't love any of the free tools out there, and figured I'd just build something myself.
 
--Deployed publicly using Vercel
+A lot of people I know — friends, classmates — struggle with what to actually *write* in a resume. Not the formatting, the words. So I wanted AI to handle that part: you give it the basics, it helps you phrase things properly and fill in the gaps.
 
-# Author 
-MOHAMMED BILAL
+It's not trying to be Notion or a full SaaS product. It's just a clean, fast tool that does one thing well.
 
+---
 
-# Clone the repository:
+## Features
+
+- AI helps you write and improve your resume content
+- Fills out and generates in real-time as you type
+- Works on mobile and desktop
+- No login needed, no data stored
+- Hosted on Vercel so it loads fast
+
+---
+
+## Stack
+
+Pure HTML, CSS, and JavaScript. No frameworks, no build tools. I kept it simple on purpose — faster to build, easier to maintain, and anyone can fork and understand it in 10 minutes.
+
+Deployed on Vercel with auto-deploy from the main branch.
+
+---
+
+## Running it locally
 
 ```bash
-git clone https://github.com/mohammedbilal-09/ash-resume-builder-ai.git
+git clone https://github.com/Mohammadbilal-09/AshResumeBuilder-AI.git
+cd AshResumeBuilder-AI
+```
 
+Then just open `index.html` in your browser. That's it — no `npm install`, nothing.
 
+If you use VS Code, the Live Server extension gives you auto-reload while you edit.
 
+---
 
+## What's next
+
+A few things I want to add when I get time:
+
+- Multiple resume templates to choose from
+- One-click PDF export
+- Dark mode
+- Saving your resume locally (localStorage, no backend needed)
+
+If you have ideas or want to contribute, feel free to open an issue or PR.
+
+---
+
+## Contributing
+
+Fork it, make your changes, open a pull request. I'll review it.
+
+```bash
+git checkout -b your-feature-name
+git commit -m "what you changed"
+git push origin your-feature-name
+```
+
+---
+
+## Author
+
+**Mohammed Bilal** — Engineering student, frontend dev, building things.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mohammadbilal--09-181717?style=for-the-badge&logo=github)](https://github.com/Mohammadbilal-09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Bilal-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-bilal-ab08a93a7)
+
+---
+
+<div align="center">
+
+MIT License — use it however you want.
+
+If it helped you land a job, I'd love to hear about it. ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+
+</div>
